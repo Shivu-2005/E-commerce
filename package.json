@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "ecommerce-backend",
   "version": "1.0.0",
   "main": "index.js",
@@ -13,4 +14,20 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs"
+=======
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+>>>>>>> dd6b0af086bd89e2608b03f49b25c49cb7e2b553
 }
